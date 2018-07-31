@@ -1,2 +1,2 @@
 # Bookmarker
-JavaScript Web-bookmarker using LocalStorage
+JavaScript Weblink-bookmarker using LocalStorage
